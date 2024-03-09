@@ -1,0 +1,1 @@
+The data in this example consists of movie ratings from Twitter since 2013, updated daily. The data was created from people who connected their IMDB profile with their Twitter accounts. Whenever they rated a movie on the IMDB website, an automated process generated a standard, well-structured tweet.
